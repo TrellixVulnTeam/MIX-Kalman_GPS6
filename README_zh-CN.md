@@ -8,7 +8,7 @@
 
 MIX-Kalman主要工作是基于PyTorch。
 
-Documentation: https://MIX-Kalman-docs.readthedocs.io/en/latest/
+Documentation: https://mix-kalman.readthedocs.io/en/latest
 
 ![demo_image](resources/0.png)
 
