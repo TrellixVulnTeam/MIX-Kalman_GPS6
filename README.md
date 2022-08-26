@@ -1,5 +1,6 @@
 
 # MIX-Kalman
+This project is migrated from [iMIX](https://github.com/inspur-hsslab/iMIX)
 
 ## Introduction
 
